@@ -37,7 +37,9 @@ Install the necessary dependencies before running the code:
 - ultralytics (for YOLOv8)
 
 ## Dataset
-The One Drive Link for the dataset is: https://drive.google.com/drive/folders/10wAWTjpNhfA5CTC7nmA0YjRtE0J638n1?usp=sharing
+The SOCAL dataset link: https://figshare.com/articles/dataset/Simulated_Outcomes_following_Carotid_Artery_Laceration/15132468
+
+The One Drive Link for the preprocessed dataset is: https://drive.google.com/drive/folders/10wAWTjpNhfA5CTC7nmA0YjRtE0J638n1?usp=sharing
 
 
 
