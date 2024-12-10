@@ -1,6 +1,6 @@
 # Intro_to_DL_Course_Project
 
-# Surgical Instrument Detection with Faster R-CNN and YOLOv8
+# Detection of Surgical Instruments Using Faster RCNN & YOLO: An Enhanced Approach
 
 This repository contains the training code for surgical instrument detection using two state-of-the-art object detection architectures: **Faster R-CNN** and **YOLOv8**. The models are evaluated on the **SOCAL (Simulated Outcomes Following Carotid Artery Laceration)** dataset for detecting 8 classes of surgical instruments.
 
@@ -41,6 +41,4 @@ Install the necessary dependencies before running the code:
 - matplotlib
 - ultralytics (for YOLOv8)
 
-Install dependencies with:
-```bash
-pip install -r requirements.txt
+
