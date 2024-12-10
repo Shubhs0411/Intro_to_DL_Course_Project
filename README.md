@@ -9,12 +9,7 @@ This repository contains the training code for surgical instrument detection usi
 - [Features](#features)
 - [Requirements](#requirements)
 - [Dataset](#dataset)
-- [Usage](#usage)
-  - [Training Faster R-CNN](#training-faster-r-cnn)
-  - [Training YOLOv8](#training-yolov8)
-- [Results](#results)
-- [Future Work](#future-work)
-- [Contributors](#contributors)
+
 
 ## Introduction
 
@@ -40,5 +35,9 @@ Install the necessary dependencies before running the code:
 - numpy
 - matplotlib
 - ultralytics (for YOLOv8)
+
+## Dataset
+The One Drive Link for the dataset is: https://drive.google.com/drive/folders/10wAWTjpNhfA5CTC7nmA0YjRtE0J638n1?usp=sharing
+
 
 
