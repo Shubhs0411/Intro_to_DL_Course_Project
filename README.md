@@ -9,6 +9,7 @@ This repository contains the training code for surgical instrument detection usi
 - [Features](#features)
 - [Requirements](#requirements)
 - [Dataset](#dataset)
+- [Software](#software)
 
 
 ## Introduction
@@ -40,6 +41,9 @@ Install the necessary dependencies before running the code:
 The SOCAL dataset link: https://figshare.com/articles/dataset/Simulated_Outcomes_following_Carotid_Artery_Laceration/15132468
 
 The One Drive Link for the preprocessed dataset is: https://drive.google.com/drive/folders/10wAWTjpNhfA5CTC7nmA0YjRtE0J638n1?usp=sharing
+
+## Software
+We used the Google colab platform and the T4 Nividia GPU provided by the platform to trian the model.
 
 
 
